@@ -1,0 +1,10 @@
+@import "tailwindcss";
+
+.convert-btn:hover{
+    cursor: pointer;
+    background-color: rgb(55, 55, 231);
+}
+.swap-btn:hover{
+    cursor: pointer;
+    background-color: rgb(55, 55, 231);
+}
