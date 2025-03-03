@@ -3,6 +3,9 @@
 ## Overview
 This is a simple Currency Converter web application built using React. The application allows users to convert an amount from one currency to another using real-time exchange rates.
 
+## 🚀 Live Demo  
+🔗 [Currency Convertor](https://currency-convertor-ivory-theta.vercel.app/)
+
 ## Features
 - Convert currency in real-time using an API.
 - Swap functionality to switch between currencies.
